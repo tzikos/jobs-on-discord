@@ -1,0 +1,55 @@
+{
+  "defaults": {
+    "params": {
+      "distance": "15",
+      "geoId": "102194656",
+      "keywords": "",
+      "f_AL": "true",
+      "f_TPR": "r300",
+      "location": "Copenhagen, Capital Region, Denmark",
+      "sortBy": "DD"
+    }
+  },
+  "channels": [
+    {
+      "channel_env": "DISCORD_CHANNEL_ID_DIMITRA",
+      "include": "nutrition, nutritionist, dietitian, food science, dietician, diætist, ernæring, ernæringsekspert, sports nutrition, clinical nutrition, lab technician, laboratory, r&d, product development, food technologist, health coach, fitness, sports science",
+      "exclude": "senior, head of, manager, director, intern, student assistant",
+      "params": {
+      "distance": "15",
+      "geoId": "102194656",
+      "keywords": "",
+      "f_AL": "true",
+      "f_TPR": "r300",
+      "location": "Copenhagen, Capital Region, Denmark",
+      "sortBy": "DD"
+}
+    },
+    {
+      "channel_env": "DISCORD_CHANNEL_ID_IOANNA",
+      "include": "clinical supply, trial manager, cdc, qa, quality assurance, quality control, qc, quality specialist, quality associate, quality assistant, quality coordinator, quality technician, quality engineer, qa associate, qc associate, qa assistant, qc assistant, quality compliance, compliance specialist, gmp, good manufacturing practice, glp, quality management, deviation, batch record, sop, pharma, pharmaceutical, drug safety, manufacturing associate, production associate, production operator, chemical operator, process operator",
+      "exclude": "senior, lead, principal, head of, director, manager, internship, engineer",
+      "params": {
+      "distance": "15",
+      "geoId": "102194656",
+      "keywords": "",
+      "f_AL": "true",
+      "f_TPR": "r300",
+      "location": "Copenhagen, Capital Region, Denmark",
+      "sortBy": "DD"}
+    },
+    {
+      "channel_env": "DISCORD_CHANNEL_ID_SWISS_AIML",
+      "include": "machine learning, ml engineer, ai engineer, artificial intelligence, data scientist, applied scientist, ml scientist, ml researcher, ai researcher, mlops, ml ops, deep learning, nlp, llm, generative ai, computer vision, cv engineer, ml developer, ai developer, data science, ml specialist, ai specialist, recommendation, recommender, reinforcement learning, predictive modeling, statistical modeling",
+      "exclude": "manager, director, head, phd",
+      "params": {
+      "distance": "50",
+      "geoId": "106693272",
+      "keywords": "",
+      "f_AL": "true",
+      "f_TPR": "r300",
+      "location": "Switzerland",
+      "sortBy": "DD"}
+    }
+  ]
+}
