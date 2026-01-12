@@ -41,7 +41,7 @@
     {
       "channel_env": "DISCORD_CHANNEL_ID_SWISS_AIML",
       "include": "machine learning, ml engineer, ai engineer, artificial intelligence, data scientist, applied scientist, ml scientist, ml researcher, ai researcher, mlops, ml ops, deep learning, nlp, llm, generative ai, computer vision, cv engineer, ml developer, ai developer, data science, ml specialist, ai specialist, recommendation, recommender, reinforcement learning, predictive modeling, statistical modeling",
-      "exclude": "manager, director, head, phd",
+      "exclude": "senior, manager, director, head, phd",
       "params": {
       "distance": "50",
       "geoId": "106693272",
@@ -54,7 +54,7 @@
     {
       "channel_env": "DISCORD_CHANNEL_ID_PARIS_AIML",
       "include": "machine learning, ml engineer, ai engineer, artificial intelligence, data scientist, applied scientist, ml scientist, ml researcher, ai researcher, mlops, ml ops, deep learning, nlp, llm, generative ai, computer vision, cv engineer, ml developer, ai developer, data science, ml specialist, ai specialist, recommendation, recommender, reinforcement learning, predictive modeling, statistical modeling",
-      "exclude": "manager, director, head, phd",
+      "exclude": "senior, manager, director, head, phd",
       "params": {
       "distance": "50",
       "geoId": "106383538",
